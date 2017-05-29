@@ -1,4 +1,5 @@
-# COSPLAY
+# COSPLAY 
+* Smarty封装
 
 ### 封装组件
 * composer(工具)
