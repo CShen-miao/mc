@@ -1,5 +1,6 @@
 # COSPLAY 
 * Smarty封装
+* Linux中下载后view_c文件夹必需有写权限。[sudo chmod 777 view_c]
 
 ### 封装组件
 * composer(工具)
